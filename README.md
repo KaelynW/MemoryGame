@@ -1,8 +1,26 @@
-MEMORY GAME !
-=============
+MEMORY GAME
+===========
 
-Small memory game with 3 dificulty levels & Impossible mode.
 
-Atm only shuffle and generate cards
+Based on Pixiejs, Gdevelop (IDE) and Javascript
 
-Made with Pixi.js / Javascript / Gdevelop
+The game is fully playable with sound and stuff ! Just unzip and double-click on index.html to launch the game in your browser :>
+
+HOW AWESOME ! :>
+
+Based on the tutorial by kittiewan for Construct 2
+
+TO DO :
+=======
+
+- Menu with difficulty level
+- New Card Layout with FANCY NEW ICON :>
+- New Board with lot of stuff !
+- Impossible Mode
+- New design
+
+
+VERSION :
+=========
+
+Version 0.1 Alpha (Yeah!)
